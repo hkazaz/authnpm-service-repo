@@ -1,0 +1,12 @@
+{
+  "name": "authnpm-service-repo",
+  "version": "1.0.0",
+  "description": "\"# authnpm Service Repo\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
